@@ -13,6 +13,9 @@ function App() {
   return (
     <React.Fragment>
       <Navbar />
+      <br></br>
+      <div style={{ color: 'blue', textAlign: 'center',fontSize: "40px" }}>Created by Anzar Shah in Ethnotech Internship</div>
+
       <Switch>
         <Route exact path="/" component={ProductList} />
         <Route path="/details" component={Details} />

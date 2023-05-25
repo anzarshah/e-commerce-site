@@ -1,9 +1,9 @@
 :root {
- --mainBlue:#2a2a72;
- --lightBlue:#009ffd;
+ --mainBlue:#e2db7c;
+ --lightBlue:#352c1e;
  --mainWhite:#f3f3f3;
  --mainDark:#232528;
- --mainYellow:#ffa400;
+ --mainYellow:#0b63ef;
 }
 body{
   font-family:"Anton", sans-serif !important;
